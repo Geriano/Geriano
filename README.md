@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Geriano&show_icons=true&theme=dracula" alt="Geriano Github Stats">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Geriano&color=F4A4B5&style=flat" alt="Geriano" />
+</div>
+<br>
 
-<!--
-**Geriano/Geriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experiences
+- HTML & CSS
+- Pure PHP
+- PHP Framework (Laravel ^7.x|^8.x|^9.x, CodeIgniter 4)
+- Pure JavaScript
+- NodeJS (ExpressJS)
+- GIT (VCS)
+- JavaScript Ecosystem & Environment
+- ReactJS, VueJS
+- Python
 
-Here are some ideas to get you started:
+### 🚀 How to reach me:
+- Email: [contact@gerznewbie@gmail.com](mailto:gerznewbie@gmail.com)
+- LinkedIn: [Geriano Adika Putra](https://www.linkedin.com/in/geriano-a-957697206)
+- Telegram: [@Gerianooo](https://t.me/Gerianooo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+© 2022 — Geriano Adika Putra
