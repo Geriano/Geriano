@@ -17,7 +17,7 @@
 - Python
 
 ### 🚀 How to reach me:
-- Email: [contact@gerznewbie@gmail.com](mailto:gerznewbie@gmail.com)
+- Email: [gerznewbie@gmail.com](mailto:gerznewbie@gmail.com)
 - LinkedIn: [Geriano Adika Putra](https://www.linkedin.com/in/geriano-a-957697206)
 - Telegram: [@Gerianooo](https://t.me/Gerianooo)
 
