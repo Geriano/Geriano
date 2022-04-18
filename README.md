@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geriano&show_icons=true&theme=dracula" alt="Geriano Github Stats">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Geriano&color=F4A4B5&style=flat" alt="Geriano" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geriano&theme=blue-green" alt="Geriano" />
 </div>
 <br>
 
