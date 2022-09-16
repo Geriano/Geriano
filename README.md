@@ -16,22 +16,10 @@
 
 <br>
 
-## Experiences
-- HTML & CSS
-- Pure PHP
-- PHP Framework (Laravel ^7.x|^8.x|^9.x, CodeIgniter 4)
-- Pure JavaScript
-- NodeJS (ExpressJS)
-- GIT (VCS)
-- JavaScript Ecosystem & Environment
-- ReactJS, VueJS
-- Python
-
 ### 🚀 How to reach me:
 - Email: [gerznewbie@gmail.com](mailto:gerznewbie@gmail.com)
 - LinkedIn: [Geriano Adika Putra](https://www.linkedin.com/in/geriano-a-957697206)
 - Telegram: [@Gerianooo](https://t.me/Gerianooo)
+- Whatsapp: [@Geriano](https://wa.me/+6281384465126)
 
 ---
-
-© 2022 — Geriano Adika Putra
