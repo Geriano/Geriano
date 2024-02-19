@@ -1,5 +1,5 @@
 ### 🚀 How to reach me:
-- Email: [gerznewbie@gmail.com](mailto:gerznewbie@gmail.com)
+- Email: [me@geriano.cloud](mailto:me@geriano.cloud)
 - Gitlab: [Geriano](https://gitlab.com/Geriano)
 - LinkedIn: [Geriano Adika Putra](https://www.linkedin.com/in/gerznewbie)
 - Telegram: [@Gerianooo](https://t.me/Gerianooo)
