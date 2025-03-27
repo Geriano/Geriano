@@ -1,4 +1,4 @@
 ### 🚀 How to reach me:
-- Email: [me@geriano.cloud](mailto:me@geriano.cloud)
+- Email: [geriano@nusantara.network](mailto:geriano@nusantara.network)
 - Telegram: [@Gerianooo](https://t.me/Gerianooo)
 ---
